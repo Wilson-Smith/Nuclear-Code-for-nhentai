@@ -1,5 +1,5 @@
 Welcome random person of the internet, are you ok?
-Anyway welcome to my first doo doo project.
+Anyway welcome to my first doo doo project. (Actually is my FIRST project)
 I don't know why are you here, but thanks for been here. :D
 Reurning on the project, the code is simple and is created by a ooga booga cave man brain, so isn't the best, but do his work.
 There is one big problem and is that it works with the number generetor, so sometimes appers on the site of nhentai.net the error 404.
