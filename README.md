@@ -11,7 +11,7 @@ There is one big problem and is that it works with the number generetor, so some
 
 You can fix the APPARENTLY bug by re-run it, until generates a REAL RANDOM hen-*coff* *coff* "JAPANESE ART" *coff* *coff*.
 
-BUT you can change the minimum and the maximum number for a better research. ( ͡° ͜ʖ ͡°)
+BUT you can change the minimum and the maximum number for a better research. ;‑)
 
 Sometimes doesn't work if the browser is closed (expecially Opera GX), so i recommend to open your default browser, but you can not do it and sometimes works well.
 
