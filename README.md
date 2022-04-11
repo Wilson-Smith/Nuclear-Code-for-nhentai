@@ -13,8 +13,6 @@ You can fix the APPARENTLY bug by re-run it, until generates a REAL RANDOM hen-*
 
 BUT you can change the minimum and the maximum number for a better research. ;‑)
 
-Sometimes doesn't work if the browser is closed (expecially Opera GX), so i recommend to open your default browser, but you can not do it and sometimes works well.
-
 One day I will create an interface or something like that and some brand new things that actually I don't know.
 
 And remember: "Stay in School, Smoke Crack, Fuck You Depression, Bye!"
