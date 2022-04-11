@@ -21,4 +21,4 @@ And remember: "Stay in School, Smoke Crack, Fuck You Depression, Bye!"
 
 
 
-Created by an ex Horny boy
+Created by an Horny boy
