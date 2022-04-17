@@ -15,7 +15,7 @@ BUT you can change the minimum and the maximum number for a better research. ;â€
 
 One day I will create an interface or something like that and some brand new things that actually I don't know.
 
-And remember: "Stay in School, Smoke Crack, Fuck You Depression, Bye!"
+And remember: "Stay in School, Smoke Crack, Fuck You Horniness, Bye!"
 
 
 
