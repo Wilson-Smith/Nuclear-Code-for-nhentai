@@ -11,7 +11,7 @@ So, it will generate a REAL RANDOM hen-*coff* *coff* "JAPANESE ART" *coff* *coff
 
 You don't even have to change something, and it is user-friendly.
 
-There is a shitty GUI, so if you have a better idea for the design, i'll accept it.
+There is a shitty GUI, so if you have a better idea for the design, ~~i'll trash it~~ i'll accept it.
 
 Also the "JAPANESE ART" will be opened in incognito mode in Chrome.
 (One day I'll do the others...)
