@@ -1,7 +1,6 @@
 def button():
     from selenium import webdriver
     import random
-    import random
     import requests
     import webbrowser
     import os
