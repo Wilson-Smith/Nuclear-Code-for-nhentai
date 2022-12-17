@@ -1,8 +1,8 @@
 def button():
-    from selenium import webdriver
+    # from selenium import webdriver
     import random
     import requests
-    import webbrowser
+    # import webbrowser
     import os
     
     def Generate_Code():
