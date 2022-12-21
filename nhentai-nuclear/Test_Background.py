@@ -47,4 +47,3 @@ def button():
         os.system('start chrome --incognito '+'"'+url+'"')
     else:
         print("Restart")
-button()
