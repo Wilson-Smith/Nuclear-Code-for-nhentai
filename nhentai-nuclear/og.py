@@ -46,7 +46,6 @@ def button():
         os.system('start chrome --incognito '+'"'+url+'"')
     btn1()
 
-
 # Adjust window size
 root.geometry("500x500")
 root.configure(width=500, height=500)
