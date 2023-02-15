@@ -42,10 +42,10 @@ root.configure(width=500, height=500)
 root.eval('tk::PlaceWindow . center')
 
 # Add image file
-bg = PhotoImage(file="backgroundhentai.png")
+#bg = PhotoImage(file="backgroundhentai.png")
 
 # Add icon file
-root.iconbitmap('iconhentai.ico')
+#root.iconbitmap('iconhentai.ico')
 
 # Title window
 root.title("Nhentai Randomizer Shit")
@@ -55,7 +55,8 @@ root.columnconfigure(0, weight=1)
 root.columnconfigure(1, weight=3)
 
 # Show image using label
-label1 = Label(root, image=bg)
+#label1 = Label(root, image=bg)
+label1 = Label(root)
 label1.place(x=0, y=0)
 
 label2 = Label(root, text="Nuke")
